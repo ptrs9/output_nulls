@@ -1,7 +1,7 @@
 # Output Nulls
-==========================
 
 *Tool to automate the way of creating OUTputs in Houdini.*
+
 ![Image description](/img/img07.png)
 
 ## How to install
