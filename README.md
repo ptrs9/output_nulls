@@ -1,7 +1,8 @@
-Output Nulls
+# Output Nulls
 ==========================
-![Image description](/img/img07.png)
+
 *Tool to automate the way of creating OUTputs in Houdini.*
+![Image description](/img/img07.png)
 
 ## How to install
 1. Create new shelf or use already existed shelf dedicated to Custom tools.
