@@ -7,7 +7,7 @@
 ## How to install
 1. Create new shelf or use already existed shelf dedicated to Custom tools.
 ![Image description](/img/img01.png)
-2. Add New Tool, copy paste python script.
+2. Add New Tool, copy paste python script. source https://github.com/undefinedthings/output_nulls/blob/master/outputnulls.py
 ![Image description](/img/img02.png)
 3. Setup Context 
 ![Image description](/img/img03.png)
