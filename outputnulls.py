@@ -113,4 +113,5 @@ class OutputNulls(QtWidgets.QMainWindow):
         
 outputWidget = OutputNulls()
 outputWidget.setWindowFlags(outputWidget.windowFlags() | QtCore.Qt.WindowStaysOnTopHint | QtCore.Qt.FramelessWindowHint)
+outputWidget.setStyleSheet("QMainWindow {background: rgb(80, 80, 80);}");
 outputWidget.show()
